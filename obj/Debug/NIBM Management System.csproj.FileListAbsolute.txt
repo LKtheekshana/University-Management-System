@@ -1,0 +1,77 @@
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\bin\Debug\NIBM Management System.exe.config
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\bin\Debug\NIBM Management System.exe
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\bin\Debug\NIBM Management System.pdb
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\bin\Debug\Guna.UI2.dll
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.csproj.AssemblyReference.cache
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Courses.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Department.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.DialogBox.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Faculty.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Fees.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Login.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Home.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Properties.Resources.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Signup.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM_Management_System.Student.resources
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.csproj.GenerateResource.cache
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.exe.licenses
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.csproj.CoreCompileInputs.cache
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.csproj.CopyComplete
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.exe
+C:\Users\MSii\Downloads\University-Management-System-master\University-Management-System-master\obj\Debug\NIBM Management System.pdb
+D:\GUIcw\University-Management-System-master\bin\Debug\NIBM Management System.exe.config
+D:\GUIcw\University-Management-System-master\bin\Debug\NIBM Management System.exe
+D:\GUIcw\University-Management-System-master\bin\Debug\NIBM Management System.pdb
+D:\GUIcw\University-Management-System-master\bin\Debug\Guna.UI2.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.csproj.AssemblyReference.cache
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.csproj.SuggestedBindingRedirects.cache
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Courses.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Department.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.DialogBox.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Fees.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Login.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Home.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Properties.Resources.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Signup.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Student.resources
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.csproj.GenerateResource.cache
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.exe.licenses
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.csproj.CoreCompileInputs.cache
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.csproj.CopyComplete
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.exe
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM Management System.pdb
+D:\GUIcw\University-Management-System-master\bin\Debug\BouncyCastle.Crypto.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\Google.Protobuf.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Compression.LZ4.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Hash.xxHash.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\MySql.Data.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Buffers.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.IO.Pipelines.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Memory.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Numerics.Vectors.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\ZstdSharp.dll
+D:\GUIcw\University-Management-System-master\bin\Debug\BouncyCastle.Crypto.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\Google.Protobuf.pdb
+D:\GUIcw\University-Management-System-master\bin\Debug\Google.Protobuf.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Compression.LZ4.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\K4os.Hash.xxHash.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\MySql.Data.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Buffers.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.IO.Pipelines.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Memory.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Numerics.Vectors.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GUIcw\University-Management-System-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GUIcw\University-Management-System-master\obj\Debug\NIBM_Management_System.Lecturer.resources
